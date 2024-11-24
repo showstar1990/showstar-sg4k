@@ -3,14 +3,7 @@
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "logo": "https://4708.kstore.space/logo.gif",
 
-"lives": [
- {
-      "name": "IPV",
-      "type": 0,
-      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/
-myIPTV/main/ipv6.m3u",
-      "playerType": 1
-    }],
+
 
   "sites": [
     {
@@ -18,7 +11,7 @@ myIPTV/main/ipv6.m3u",
       "name": "♪抖音show.star☪阿星💫",
       "type": 3,
       "jar": "./jar/pg1.jar",
-      "searchable": 0,
+      "searchable": 0,  
       "changeable": 1,
       "quickSearch": 0,
       "filterable": 0,
@@ -97,7 +90,7 @@ myIPTV/main/ipv6.m3u",
     {
       "key": "360影视",
       "name": "☪阿星⚓360剧",
-      "type": 3,
+      "type": 3,  
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/360影视[官].js"
     },
